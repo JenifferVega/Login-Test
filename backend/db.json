@@ -1,0 +1,20 @@
+{
+    "usuarios":[
+        {
+            "id": 1,
+            "apellido_materno": "Funez",
+            "apellido_paterno": "Paisano",
+            "nombre": "Jeniffer",
+            "username": "Kotomivega",
+            "password": "e10adc3949ba59abbe56e057f20f883e"
+        },
+        {
+            "id": 2,
+            "apellido_materno": "vega",
+            "apellido_paterno": "carvajal",
+            "nombre": "jesus",
+            "username": "Sumaikun",
+            "password": "fcea920f7412b5da7be0cf42b8c93759"
+        }
+    ]
+}
